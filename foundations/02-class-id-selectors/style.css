@@ -1,0 +1,16 @@
+.class {
+    background-color: pink;
+    font-size: small;
+}
+.cool {
+    font-size: medium;
+}
+#id {
+    color: blue;
+    font-size: large;
+}
+#another_id {
+    background-color: green;
+    font-weight: bold;
+    font-size: medium;
+}
